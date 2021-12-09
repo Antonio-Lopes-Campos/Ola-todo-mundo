@@ -43,7 +43,10 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    Padding
+    padding-left: 30px;
+    font-family: var(--font);
+    font-family: var(--font2);
+    font-family: var(--font3);
 }
     section.normal {
     background-color: white;

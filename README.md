@@ -3,4 +3,4 @@
 	
  Repositório criado durante uma aula ao vivo em 27/11/2021.
 	
-Esta linha eu adicionei no Site diretamente qie IMPRESSIONANTE.
+Esta linha eu adicionei no Site diretamente que IMPRESSIONANTE.
